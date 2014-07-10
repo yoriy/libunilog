@@ -1,0 +1,5 @@
+This is libunilog, a library for deal with logging. It allows to log your data
+to multiple file descriptors simultanously, including stdout and stderr.
+Library is thread-safe, using pthread mutexes and rwlocks for IPC.
+Written in C lang.
+
